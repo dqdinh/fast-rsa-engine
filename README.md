@@ -37,7 +37,8 @@ or
 ## developement
 
 Get all the gems and jars in place.
-
+    
+    
     bundle install
 
 Build jar and run all specs.
